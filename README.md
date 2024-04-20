@@ -26,6 +26,7 @@ Global Coordination: International collaboration is essential for addressing mea
 Personal Contributions:
 
 For this project, I partnered with a classmate to research measles and its connection to informatics. Together, we conducted thorough research and analyzed data. This collaborative effort deepened our understanding of measles surveillance and informatics, contributing to our academic growth.
+
 Presentation Materials
 The repository includes presentation slides summarizing the research findings, key insights, and recommendations for addressing measles informatics challenges.
 
